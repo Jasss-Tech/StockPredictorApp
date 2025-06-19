@@ -3,4 +3,4 @@ pandas
 numpy
 yfinance
 scikit-learn
-tensorflow
+tensorflow==2.12.0
